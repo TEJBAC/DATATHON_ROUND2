@@ -1,0 +1,2 @@
+in this round we have decided to go with the problem statement 5 which needs the classification of the vegetables and we have achieved it using machine learning and as an extra feature i have tried integrating APi for the recipe suggestion upon dectected vegetable and also tried the quantity feature using open cv i was not able to show the output because google colab was providing an erro but if tried on VS code it will work fine
+all in all this is our project we know there are many shortcoming but we will make to overcome as we speak.
